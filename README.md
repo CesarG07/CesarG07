@@ -14,13 +14,13 @@ Hi, I'm Cesar Gutierrez!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+💻 I am a self taught Full Stack Developer
+📚 I have a Bachelors in Electronics Engineering from the PUCP
+📝 I have a strong interest in Web Devolpment and Artificial Intelligence
+🔭 Working on Full Stack Developments
+🌱 Learning about AI
+🌟 Main languages: Python, JavaScript, C
+🚩 Interested in Full Stack Machine Learning Application development and AI-powered apps
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://cesarg07.github.io/my-portfolio/tools/CV_CesarGutierrez_esp.pdf" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
